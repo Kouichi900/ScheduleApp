@@ -33,7 +33,7 @@
   - `Store.js`: LocalStorage操作のラッパー
   - `Calendar.js`: カレンダー生成ロジック
   - `main.js`: イベントハンドリングとDOM操作
-- **Antigravity**: AIエージェントを活用し、設計検討・コード生成・改善を行いながら開発AntigravityでAIエージェントに指示を出して作成
+- **Antigravity**: AIエージェントを活用し、設計検討・コード生成・改善を行いながら開発
 
 ## 📂 フォルダ構成
 
@@ -48,6 +48,7 @@
     └── store           # データ管理
         └── Store.js    # データ永続化ロジック
 ```
+
 
 
 
