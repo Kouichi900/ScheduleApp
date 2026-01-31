@@ -2,8 +2,7 @@
 
 シンプルで美しく、高機能なスケジュール管理アプリケーション。
 フレームワークなしのVanilla JSで構築されており、ブラウザのLocalStorageを使用してデータを保存します。
-
-![App Screenshot](https://via.placeholder.com/800x450.png?text=Schedule+App+Preview)
+<img width="2428" height="1413" alt="image" src="https://github.com/user-attachments/assets/8287803b-9e86-4172-ba45-aa48bde2b2d8" />
 
 
 
@@ -48,6 +47,7 @@
     └── store           # データ管理
         └── Store.js    # データ永続化ロジック
 ```
+
 
 
 
