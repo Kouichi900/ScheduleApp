@@ -1,4 +1,4 @@
-# Premium Schedule App 📅
+# Schedule App 📅
 
 シンプルで美しく、高機能なスケジュール管理アプリケーション。
 フレームワークなしのVanilla JSで構築されており、ブラウザのLocalStorageを使用してデータを保存します。
@@ -48,5 +48,6 @@
     └── store           # データ管理
         └── Store.js    # データ永続化ロジック
 ```
+
 
 
