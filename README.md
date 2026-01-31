@@ -4,7 +4,7 @@
 フレームワークなしのVanilla JSで構築されており、ブラウザのLocalStorageを使用してデータを保存します。
 
 ![App Screenshot](https://via.placeholder.com/800x450.png?text=Schedule+App+Preview)
-*<img width="2464" height="1417" alt="image" src="https://github.com/user-attachments/assets/54f1c9d2-ff43-42e0-b519-278930e94d78" />
+
 
 
 ## ✨ 特徴
@@ -48,6 +48,7 @@
     └── store           # データ管理
         └── Store.js    # データ永続化ロジック
 ```
+
 
 
 
