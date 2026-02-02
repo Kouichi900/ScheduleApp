@@ -47,6 +47,8 @@
     └── store           # データ管理
         └── Store.js    # データ永続化ロジック
 ```
+## 　 参考コード
+<img width="1761" height="1530" alt="image" src="https://github.com/user-attachments/assets/c3427c71-5d5d-463f-b6b9-1a3be95a6729" />
 
 
 
